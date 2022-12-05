@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/h$ ./0-hello_world
+-e echo 'Hello worldd'>HELLO world
